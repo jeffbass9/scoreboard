@@ -68,7 +68,7 @@ class App extends Component {
     return (
       <div className="scoreboard">
         <Header
-          title="Shits given"
+          title="Days without swearing"
           players={this.state.players}
         />
 
